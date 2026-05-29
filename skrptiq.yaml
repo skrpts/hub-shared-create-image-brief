@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "d6a46fa4-f224-453d-b9f6-3b4fe8d95e24"
+name: "create-image-brief"
+display_name: "Create Image Brief"
+description: "Generates detailed image briefs for designers or AI image generators"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-create-image-brief"
+category: "shared"
+tags:
+  - "shared"
+  - "prompt"
+contents:
+  skills: 0
+  prompts: 1
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1

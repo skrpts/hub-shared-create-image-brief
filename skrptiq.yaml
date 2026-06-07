@@ -3,7 +3,7 @@ id: "1e39d22d-1d37-4981-abc2-81ff4488429d"
 name: "create-image-brief"
 display_name: "Create Image Brief"
 description: "Generates detailed image briefs for designers or AI image generators"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"

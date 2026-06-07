@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "d6a46fa4-f224-453d-b9f6-3b4fe8d95e24"
+id: "1e39d22d-1d37-4981-abc2-81ff4488429d"
 name: "create-image-brief"
 display_name: "Create Image Brief"
 description: "Generates detailed image briefs for designers or AI image generators"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"

@@ -1,5 +1,8 @@
 # Release Notes
 
+## v1.0.3
+GH#657 Framing B — republish wave. Bundle now ships `dependencies: []` in its signed manifest (injected by `publish-skrpt.mjs` for `--shared` publishes), so the App's dep-referenced install pipeline (post-PR #47) accepts it on standalone update via Hub Update-all. No content changes.
+
 ## v1.0.2
 GH#651 Hub publish — republish to populate `nodes[].content` in object_manifest for prompt nodes. The /api/shared/<slug>/<v>/metadata endpoint now exposes `nodes[].content` for type='prompt' (GH#650 / GH#651), used by the engine validator's dep-aware loop-body `{{loop.item}}` interpolation check. Pre-fix publish-skrpt.mjs stripped content uniformly; aba4ccd7 preserves it for prompts. No content changes from v1.0.1; signed-bundle data identical, only D1 object_manifest gains the `content` field.
 

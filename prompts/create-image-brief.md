@@ -40,11 +40,11 @@ For each image needed, produce a brief covering:
 2. **Subject** — what should be in the image (people, objects, scenes)
 3. **Composition** — framing, perspective, focal point
 4. **Mood** — the emotional tone (energetic, calm, professional, playful)
-5. **Colour palette** — specific colours or ranges that align with the brand
+5. **Color palette** — specific colors or ranges that align with the brand
 6. **Style** — photographic, illustrated, minimalist, detailed, etc.
 7. **Format** — dimensions, orientation, file type
 8. **Text overlay** — any text that needs to appear on the image
-9. **Restrictions** — what to avoid (competitor colours, clichéd imagery, etc.)
+9. **Restrictions** — what to avoid (competitor colors, clichéd imagery, etc.)
 
 Keep each brief specific enough that a designer or AI generator can produce the image without further questions.
 

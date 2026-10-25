@@ -4,6 +4,11 @@ id: create-image-brief
 title: "Create Image Brief"
 description: "Generates detailed image briefs for designers or AI image generators"
 tags: [Production, Creative]
+context_params:
+  source:
+    label: "Context"
+    description: "The context supplied by the upstream step."
+    required: true
 
 metadata:
   output_format: markdown
@@ -20,7 +25,7 @@ You are a creative director. Produce image briefs based on the campaign or conte
 
 ### Context
 
-{{steps.previous.output}}
+{{step.context.source}}
 
 ### Brand Guidelines
 

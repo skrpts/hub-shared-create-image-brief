@@ -3,7 +3,7 @@ id: "1e39d22d-1d37-4981-abc2-81ff4488429d"
 name: "create-image-brief"
 display_name: "Create Image Brief"
 description: "Generates detailed image briefs for designers or AI image generators"
-version: "1.0.4"
+version: "1.0.5"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -28,7 +28,7 @@ contents:
 
 security:
   status: "pass"
-  scanned_at: "2026-07-16T13:56:13.126Z"
+  scanned_at: "2026-10-25T16:45:18.323Z"
   scanner_version: "3.3.0"
   syntactic: "pass"
   structural: "pass"
